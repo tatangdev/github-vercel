@@ -19,6 +19,10 @@
     "morgan": "^1.10.0",
     "pg": "^8.8.0",
     "sequelize": "^6.25.2",
-    "unique-names-generator": "^4.7.1"
+    "unique-names-generator": "^4.7.1",
+    "pg-native": "file:./node_modules/noop2"
+  },
+  "devDependencies": {
+    "noop2": "^2.0.0"
   }
 }
